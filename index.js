@@ -22,4 +22,4 @@ module.exports = function(cb){
   }
 
   return through.obj(bufferize);
-}
+};

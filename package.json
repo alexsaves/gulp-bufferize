@@ -1,6 +1,6 @@
 {
   "name": "gulp-bufferize",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Pipes a gulp stream to buffers. A replacement for file writing.",
   "main": "index.js",
   "scripts": {
